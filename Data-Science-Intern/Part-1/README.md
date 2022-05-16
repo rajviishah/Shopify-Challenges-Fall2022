@@ -34,7 +34,6 @@ multiple standard deviations).
 
 
 <h3>Use new metrics</h3>
-
 - The value of using median is that we disregard anomalies, contrary to using average. Even so, we were able to get 25%, median, and 75% using the describe() function. We actually found
 that the 75% percentile is similar to our average. Hence, median (and percentiles) are now a
 better judgement of the entire dataset.
@@ -48,7 +47,7 @@ in which there is value to using z-score.
 - To summarize, one investigation turned into two metrics, using percentiles for judgement of the
 entire dataset, and z-score as a judgement for each independent order.
 <h2>Solution 2</h2>
-Following up with observation 3, it is often incorrect to judge and analyze the dataset based off
+- Following up with observation 3, it is often incorrect to judge and analyze the dataset based off
 of the average. For instance, any majorly large number will skew the average. Hence, we can
 use percentiles (25%, median, 75%) to judge the entire dataset.
 - Adding on to our .describe() function, instead of looking at affordability through the average
