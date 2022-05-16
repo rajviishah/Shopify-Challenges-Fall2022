@@ -8,8 +8,8 @@ The reason of the analysis seems wrong because the analysis is done with the wro
   - For instance, we see 17 instances of 2000 items purchased, which of
 course will skew the average; we should take out shop 42.
   - As well, the average order will also be skewed because shop 78 is selling
-each shoe for about \$27,725; sneakers should not be this high!
-  - Therefore after taking out the anomalous shops, shop 42 and 78, we get an average order value of \$300, which makes sense as some customers purchase more than 1 item during their visit!
+each shoe for about $27,725; sneakers should not be this high!
+  - Therefore after taking out the anomalous shops, shop 42 and 78, we get an average order value of $300, which makes sense as some customers purchase more than 1 item during their visit!
 
   - We also see that the average number of items purchased (after removing outliers) is about 2 items; this seems correct!
 
