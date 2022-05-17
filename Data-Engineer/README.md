@@ -27,3 +27,9 @@ This project has been implemented in Python using Flask to serve a web interface
 - We could verify vendors by a login form that would give the browser an access token, allowing the application to serve administrative tools to the user such as adding/removing products, viewing earnings, and managing inventory. 
 
 - Customers could save payment information allowing them to easily buy products without having to enter their payment data again each time.
+
+<h2>Output</h2>
+![Screenshot (1)](https://user-images.githubusercontent.com/50801491/168886133-725621bc-75d1-4ceb-920a-31a6197f6bcd.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/50801491/168886159-f4cf9e1b-6a5e-4443-acfd-9bbc13c3676e.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/50801491/168886178-7aa28b88-8269-4b3a-8eaa-bd2599a9df9d.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/50801491/168886190-0f35c15e-a254-40b3-9df8-22a8a0f2eaf1.png)
